@@ -1,14 +1,12 @@
-# Projects
+## Erin Flaherty
 
-Erin Flaherty
-
-linkedin.com/in/erin-f-8389483/ | eflaherty007@gmail.com | github.com/eflaherty
+### [LinkedIn](https://linkedin.com/in/erin-f-8389483/) | eflaherty007@gmail.com | [github](https://github.com/eflaherty)
 
 Flagstaff, AZ
 
 Senior Software Quality Assurance Engineer
 
-PROFESSIONAL SUMMARY
+**PROFESSIONAL SUMMARY**
 
 I have worked in the software industry for over 10 years gaining valuable multidisciplinary experience resulting in robust manual and automated testing strategies, cross-functional teams collaboration, knowledge of microservices and client/server architecture. I have a proven track record of motivating and leading software testing teams, managing test assets, and working with distributed engineering and product teams across different continents to drive continuous improvement and identify process enhancements. Highly skilled in requirements analysis, test strategy, and test planning. Deeply engaged in all stages of product, development, and test life cycle with a growth and forward-thinking mindset.
 
@@ -16,12 +14,14 @@ I have valuable experience researching existing documentation, working with prod
 
 I've gained helpful industry knowledge across various industries such as health care - pharmaceuticals/lab (Labcorp), hotel reservations (Hilton), defense/aerospace (Apache AH-64D helicopter), B2B, financial, education - online faculty/student platform (University of Phoenix), video content security (MultiDRM, OTT), and family organization/productivity tech(Evernote).
 
-EXPERIENCE
+**EXPERIENCE**
 
 **Ad Hoc: Senior Software Engineer/QA Lead, Nov 2022 – April 2023**
+
 VA PTEMS Shared Support Team
 - Shadowed teammate on home page redesign testing
 - Expanded knowledge on Cypress
+
 CEDAR Health Applications Team
 - Collaborated with team on the facilities search redesign for the health care application
 - Suggested design on representing closed facilities
@@ -68,9 +68,8 @@ instance connecting to it using ansible
 - Helped, coached and supported the development teams around testing practices and tools ensuring, via audits and reviews, that the processes and practices applied by the teams allow the conformance with the requirements defined in the QMS
 
 2001 – 2014
-Software Engineer/QA Engineer/QA Analyst/QA Lead - Boeing & Wells Fargo & ADEQ &
-Equity Methods & CPG & Apollo Education Group
-➢ Details on LinkedIn profile
+**Software Engineer/QA Engineer/QA Analyst/QA Lead** - Boeing & Wells Fargo & ADEQ & Equity Methods & CPG & Apollo Education Group
+- Details on LinkedIn profile
 
 **EDUCATION AND CERTIFICATIONS**
 
@@ -78,6 +77,4 @@ Equity Methods & CPG & Apollo Education Group
 
 **Certified Tester, Foundation Level (CTFL)**, International Software Testing Qualifications Board – February 2012
 
-**Bachelor of Science**
-**Computer Information Systems**
-Arizona State University
+**Bachelor of Science, Computer Information Systems** Arizona State University
