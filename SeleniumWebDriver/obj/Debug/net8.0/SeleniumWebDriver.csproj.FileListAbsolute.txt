@@ -1,0 +1,4 @@
+C:\Users\erinf\Desktop\SeleniumWebDriver\obj\Debug\net8.0\SeleniumWebDriver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erinf\Desktop\SeleniumWebDriver\obj\Debug\net8.0\SeleniumWebDriver.AssemblyInfoInputs.cache
+C:\Users\erinf\Desktop\SeleniumWebDriver\obj\Debug\net8.0\SeleniumWebDriver.AssemblyInfo.cs
+C:\Users\erinf\Desktop\SeleniumWebDriver\obj\Debug\net8.0\SeleniumWebDriver.csproj.CoreCompileInputs.cache

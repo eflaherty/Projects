@@ -1,0 +1,14 @@
+C:\Users\erinf\Desktop\SeleniumWebDriver\FirstTest\bin\Debug\net8.0\FirstTest.exe
+C:\Users\erinf\Desktop\SeleniumWebDriver\FirstTest\bin\Debug\net8.0\FirstTest.deps.json
+C:\Users\erinf\Desktop\SeleniumWebDriver\FirstTest\bin\Debug\net8.0\FirstTest.runtimeconfig.json
+C:\Users\erinf\Desktop\SeleniumWebDriver\FirstTest\bin\Debug\net8.0\FirstTest.dll
+C:\Users\erinf\Desktop\SeleniumWebDriver\FirstTest\bin\Debug\net8.0\FirstTest.pdb
+C:\Users\erinf\Desktop\SeleniumWebDriver\FirstTest\obj\Debug\net8.0\FirstTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erinf\Desktop\SeleniumWebDriver\FirstTest\obj\Debug\net8.0\FirstTest.AssemblyInfoInputs.cache
+C:\Users\erinf\Desktop\SeleniumWebDriver\FirstTest\obj\Debug\net8.0\FirstTest.AssemblyInfo.cs
+C:\Users\erinf\Desktop\SeleniumWebDriver\FirstTest\obj\Debug\net8.0\FirstTest.csproj.CoreCompileInputs.cache
+C:\Users\erinf\Desktop\SeleniumWebDriver\FirstTest\obj\Debug\net8.0\FirstTest.dll
+C:\Users\erinf\Desktop\SeleniumWebDriver\FirstTest\obj\Debug\net8.0\refint\FirstTest.dll
+C:\Users\erinf\Desktop\SeleniumWebDriver\FirstTest\obj\Debug\net8.0\FirstTest.pdb
+C:\Users\erinf\Desktop\SeleniumWebDriver\FirstTest\obj\Debug\net8.0\FirstTest.genruntimeconfig.cache
+C:\Users\erinf\Desktop\SeleniumWebDriver\FirstTest\obj\Debug\net8.0\ref\FirstTest.dll
