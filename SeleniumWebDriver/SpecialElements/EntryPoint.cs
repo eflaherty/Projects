@@ -232,10 +232,3 @@ class EntryPoint
         Console.ForegroundColor = ConsoleColor.White;
     }
 }
-
-internal class ChromeDriver
-{
-    public ChromeDriver()
-    {
-    }
-}
