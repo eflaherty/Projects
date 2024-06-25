@@ -4,28 +4,127 @@ using System.Threading;
 
 class EntryPoint
 {
-    // static IWebDriver driver = new ChromeDriver();
-    // static IWebElement textBox;
+    static IWebDriver driver = new FirefoxDriver();
+    static IWebElement textBox;
+    static IWebElement checkBox;
+    static IWebElement radioButton;
+    static IWebElement dropDownMenu;
+    static IWebElement elementFromTheDropDownMenu;
+    static IAlert alert;
+    static IWebElement image;
 
     static void Main()
     {
-        IWebDriver driver = new FirefoxDriver();
+        string text_url = "https://testing.todorvachev.com/text-input-field/";
+        string check_url = "https://testing.todorvachev.com/check-button-test-3/";
+        string drop_url = "https://testing.todorvachev.com/drop-down-menu-test/";
+        string alert_url = "https://testing.todorvachev.com/alert-box/";
+        string[] option = {"1", "3", "5"};
+        //string checkBoxSelector = "#post-33 > div > p:nth-child(8) > input[type=checkbox]:nth-child(" + option + ")";
+        string radio_url = "https://testing.todorvachev.com/radio-button-test/";
+        string radioButtonSelector = "#post-10 > div > form > p:nth-child(6) > input[type=radio]:nth-child(" + option + ")";
+        string dropDownMenuElements = "#post-6 > div > p:nth-child(6) > select > option:nth-child(3)";
 
-        string name_url = "http://testing.todorvachev.com/selectors/name/";
-        string id_url = "http://testing.todorvachev.com/selectors/id/";
-        string class_url = "https://testing.todorvachev.com/class-name/";
-        string css_url = "https://testing.todorvachev.com/css-path/";
-        string xpath_url = "https://testing.todorvachev.com/xpath/";
-        string ID = "testImage";
-        string class_name = "testClass";
-        string css_path = "#post-108 > div > figure > img";
-        string x_path = "/html/body/div/div[2]/div/articlediv/figure/img";
+        // TEXT BOX
+        driver.Navigate().GoToUrl(text_url);
+        textBox = driver.FindElement(By.Name("username"));
+        textBox.SendKeys("TEST TEXT"); // enter text in text box input field
+        Thread.Sleep(3000); // sleep for 3000 milliseconds
 
-        // find element by name
-        driver.Navigate().GoToUrl(name_url);
-        IWebElement element = driver.FindElement(By.Name("myName"));
+        // Read the text from the textbox from the variable "value" where it's
+        // stored and print to console
+        Console.WriteLine(textBox.GetAttribute("value"));
+        Thread.Sleep(3000); // sleep for 3000 milliseconds
+/* 
+        // CHECK BOX
+        driver.Navigate().GoToUrl(check_url);
+        for (int i = 0; i < option.Length; i++)
+        {
+            // Check box by CSS Selector
+            checkBox = driver.FindElement(By.CssSelector("#post-33 > div > p:nth-child(8) > input[type=checkbox]:nth-child(" + option + ")"));
+            checkBox.Click();
+            Thread.Sleep(3000); // sleep for 3000 milliseconds
+            
+            if (checkBox.GetAttribute("checked") == "true")
+            {
+                Console.WriteLine(checkBox.GetAttribute("value"));
+                Console.WriteLine("The " + (i+1) + " checkbox is checked.");
+            }
+            else
+            {
+                Console.WriteLine(checkBox.GetAttribute("value"));
+                Console.WriteLine("The checkbox is NOT checked.");
+            }
 
-        // assert element
+            Thread.Sleep(3000); // sleep for 3000 milliseconds
+        }
+        
+        // RADIO BUTTON
+        driver.Navigate().GoToUrl(radio_url);
+        for (int i = 0; i < option.Length; i++)
+        {
+            radioButton = driver.FindElement(By.CssSelector(radioButtonSelector));
+
+            if (radioButton.GetAttribute("checked") == "true")
+            {
+                Console.WriteLine(radioButton.GetAttribute("value"));
+                Console.WriteLine("The " + (i+1) + " radio button is checked.");
+            }
+            else
+            {
+                Console.WriteLine(radioButton.GetAttribute("value"));
+                Console.WriteLine("This is one of the radio options that was not chosen.");
+            }
+
+            Thread.Sleep(3000); // sleep for 3000 milliseconds
+        }  */       
+ 
+         // DROP DOWN MENU
+        driver.Navigate().GoToUrl(drop_url);
+        dropDownMenu = driver.FindElement(By.Name("DropDownTest"));
+
+        Console.WriteLine("The selected value is: " + dropDownMenu.GetAttribute("value"));
+        elementFromTheDropDownMenu = driver.FindElement(By.CssSelector(dropDownMenuElements));
+        
+        Console.WriteLine("The third option from the drop down menu is: " + elementFromTheDropDownMenu.GetAttribute("value"));
+        elementFromTheDropDownMenu.Click();
+        Console.WriteLine("The selected value after clicking is " + dropDownMenu.GetAttribute("value"));
+        
+        Thread.Sleep(3000); // sleep for 3000 milliseconds
+
+        for (int i = 1; i <= 4; i++)
+        {
+            dropDownMenuElements = "#post-6 > div > p:nth-child(6) > select > option:nth-child(" + i + ")";
+            elementFromTheDropDownMenu = driver.FindElement(By.CssSelector(dropDownMenuElements));
+
+            Console.WriteLine("The " + i + " option from the drop down menu is: " + elementFromTheDropDownMenu.GetAttribute("value"));
+        }
+
+        Thread.Sleep(5000);
+
+        // ALERT BOX
+        driver.Navigate().GoToUrl(alert_url);
+
+        alert = driver.SwitchTo().Alert();
+        Console.WriteLine(alert.Text);
+        // Click on OK to accept alert
+        alert.Accept();
+        image = driver.FindElement(By.CssSelector("#post-119 > div > figure > img"));
+
+        try
+        {
+            if (image.Displayed)
+            {
+                Console.WriteLine("The alert was successfully accepted and I can see the image!");
+            }
+        }
+        catch(NoSuchElementException)
+        {
+            Console.WriteLine("Something went wrong!!!");
+        }
+
+
+/*         // assert element
         if (element.Displayed)
         {
             GreenMessage("Yes! I can see the element, it's right there!!");
