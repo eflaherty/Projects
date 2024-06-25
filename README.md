@@ -8,9 +8,12 @@ Senior Software Quality Assurance Engineer
 
 **PROFESSIONAL SUMMARY**
 
-I have worked in the software industry for over 10 years gaining valuable multidisciplinary experience resulting in robust manual and automated testing strategies, cross-functional teams collaboration, knowledge of microservices and client/server architecture. I have a proven track record of motivating and leading software testing teams, managing test assets, and working with distributed engineering and product teams across different continents to drive continuous improvement and identify process enhancements. Highly skilled in requirements analysis, test strategy, and test planning. Deeply engaged in all stages of product, development, and test life cycle with a growth and forward-thinking mindset.
+Results-driven Senior Software Quality Assurance Engineer with both individual contributor and leadership experience in the software industry. Proven expertise in different types of testing,
+cross-functional collaboration, and leadership of development and testing teams. Skilled in requirements analysis, test strategy, and planning. Experienced in working with distributed
+teams globally, utilizing a range of testing frameworks and tools. Adept at driving continuous improvement and identifying process enhancements. Proficient in various programming
+languages, databases, and testing frameworks. Committed to advocating for product quality throughout the development life cycle.
 
-I have valuable experience researching existing documentation, working with product, design, and development teams to compile test plans and test strategies for web-based, desktop, and mobile applications both separately and the entire ecosystem.
+I have valuable experience researching existing documentation, working with product, design, and development teams to compile test plans and test strategies for cloud, web-based, desktop, and mobile applications both separately and the entire ecosystem.
 
 I've gained helpful industry knowledge across various industries such as health care - pharmaceuticals/lab (Labcorp), hotel reservations (Hilton), defense/aerospace (Apache AH-64D helicopter), B2B, financial, education - online faculty/student platform (University of Phoenix), video content security (MultiDRM, OTT), and family organization/productivity tech(Evernote).
 
