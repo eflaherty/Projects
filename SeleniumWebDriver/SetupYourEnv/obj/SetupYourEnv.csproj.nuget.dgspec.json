@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\erinf\\git\\Projects\\SeleniumWebDriver\\SetupYourEnv\\SetupYourEnv.csproj": {}
+    "C:\\Users\\erinf\\Desktop\\SeleniumWebDriver\\SetupYourEnv\\SetupYourEnv.csproj": {}
   },
   "projects": {
-    "C:\\Users\\erinf\\git\\Projects\\SeleniumWebDriver\\SetupYourEnv\\SetupYourEnv.csproj": {
+    "C:\\Users\\erinf\\Desktop\\SeleniumWebDriver\\SetupYourEnv\\SetupYourEnv.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\erinf\\git\\Projects\\SeleniumWebDriver\\SetupYourEnv\\SetupYourEnv.csproj",
+        "projectUniqueName": "C:\\Users\\erinf\\Desktop\\SeleniumWebDriver\\SetupYourEnv\\SetupYourEnv.csproj",
         "projectName": "SetupYourEnv",
-        "projectPath": "C:\\Users\\erinf\\git\\Projects\\SeleniumWebDriver\\SetupYourEnv\\SetupYourEnv.csproj",
+        "projectPath": "C:\\Users\\erinf\\Desktop\\SeleniumWebDriver\\SetupYourEnv\\SetupYourEnv.csproj",
         "packagesPath": "C:\\Users\\erinf\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\erinf\\git\\Projects\\SeleniumWebDriver\\SetupYourEnv\\obj\\",
+        "outputPath": "C:\\Users\\erinf\\Desktop\\SeleniumWebDriver\\SetupYourEnv\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\erinf\\AppData\\Roaming\\NuGet\\NuGet.Config"
