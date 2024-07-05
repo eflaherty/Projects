@@ -1,6 +1,6 @@
 ## Erin Flaherty
 
-### [LinkedIn](https://linkedin.com/in/erin-f-8389483/) | eflaherty007@gmail.com | [github](https://github.com/eflaherty)
+### [LinkedIn](https://linkedin.com/in/erin-f-8389483/) | [github](https://github.com/eflaherty)
 
 Flagstaff, AZ
 
