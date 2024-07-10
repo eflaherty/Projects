@@ -4,7 +4,8 @@
   "description": "cypress_practice",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "cy:open": "cypress open"
   },
   "author": "",
   "license": "ISC",
