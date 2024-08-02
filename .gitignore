@@ -43,7 +43,7 @@ htmlcov/
 .nox/
 .coverage
 .coverage.*
-.cache
+*.cache
 nosetests.xml
 coverage.xml
 *.cover
@@ -185,6 +185,7 @@ ipch/
 *.opensdf
 *.sdf
 *.cachefile
+*cache
 
 # Visual Studio profiler
 *.psess
@@ -267,7 +268,7 @@ UpgradeLog*.htm
 
 # Temp files when opening LibreOffice on ubuntu
 .~lock.*
- 
+
 # svn
 .svn
 
