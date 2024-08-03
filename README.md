@@ -70,8 +70,8 @@ instance connecting to it using ansible
 - Ensuring the definition and regular review of the adequate test approach and coverage during the development process to facilitate the team’s continuous improvement
 - Helped, coached and supported the development teams around testing practices and tools ensuring, via audits and reviews, that the processes and practices applied by the teams allow the conformance with the requirements defined in the QMS
 
-2005 – 2014
-Software Test Lead/QA Analyst/QA Lead/QA Analyst II – ADEQ & Equity Methods & CPG & Wells Fargo & Apollo Education Group
+**2005 – 2014
+Software Test Lead/QA Analyst/QA Lead/QA Analyst II** – ADEQ & Equity Methods & CPG & Wells Fargo & Apollo Education Group
 - Details on LinkedIn profile
 
 **EDUCATION AND CERTIFICATIONS**
