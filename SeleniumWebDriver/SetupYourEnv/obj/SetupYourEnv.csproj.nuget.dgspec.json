@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\erinf\\Desktop\\SeleniumWebDriver\\SetupYourEnv\\SetupYourEnv.csproj": {}
+    "/Users/eflah_37/git/Projects/SeleniumWebDriver/SetupYourEnv/SetupYourEnv.csproj": {}
   },
   "projects": {
-    "C:\\Users\\erinf\\Desktop\\SeleniumWebDriver\\SetupYourEnv\\SetupYourEnv.csproj": {
+    "/Users/eflah_37/git/Projects/SeleniumWebDriver/SetupYourEnv/SetupYourEnv.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\erinf\\Desktop\\SeleniumWebDriver\\SetupYourEnv\\SetupYourEnv.csproj",
+        "projectUniqueName": "/Users/eflah_37/git/Projects/SeleniumWebDriver/SetupYourEnv/SetupYourEnv.csproj",
         "projectName": "SetupYourEnv",
-        "projectPath": "C:\\Users\\erinf\\Desktop\\SeleniumWebDriver\\SetupYourEnv\\SetupYourEnv.csproj",
-        "packagesPath": "C:\\Users\\erinf\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\erinf\\Desktop\\SeleniumWebDriver\\SetupYourEnv\\obj\\",
+        "projectPath": "/Users/eflah_37/git/Projects/SeleniumWebDriver/SetupYourEnv/SetupYourEnv.csproj",
+        "packagesPath": "/Users/eflah_37/.nuget/packages/",
+        "outputPath": "/Users/eflah_37/git/Projects/SeleniumWebDriver/SetupYourEnv/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\erinf\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/eflah_37/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -43,6 +43,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
             "Selenium.WebDriver": {
               "target": "Package",
               "version": "[4.22.0, )"
@@ -64,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
