@@ -5,7 +5,7 @@ health = 50
 difficulty = 3 # easy mode, 2 is medium, 3 is hard
 
 potion_health = int(random.randint(25, 50) / difficulty)
-print(potion_health)
+print(f'potion health is: {potion_health}')
 
 health = health + potion_health
-print(health)
+print(f'health is: {health}')
