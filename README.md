@@ -2,8 +2,6 @@
 
 ### [LinkedIn](https://linkedin.com/in/erin-f-8389483/) | [github](https://github.com/eflaherty)
 
-Flagstaff, AZ
-
 Senior Software Quality Assurance Engineer
 
 **PROFESSIONAL SUMMARY**
