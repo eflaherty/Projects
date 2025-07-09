@@ -27,5 +27,5 @@ per_hour_pay = 15.0
 time_charge = int(driving_time) * per_hour_pay
 print(f'The total time charge for today (at ${per_hour_pay} per hour) is: ${time_charge}')
 
-print(f'The total charges for today are: ${(round(total_cost_of_gas,2) + time_charge)}')
+print(f'The total charges for today are: ${(round(total_cost_of_gas,2) + vehicle_wear_tear + time_charge)}')
 
