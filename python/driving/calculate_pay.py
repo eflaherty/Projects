@@ -16,7 +16,7 @@ total_cost_of_gas = (int(miles_driven) / miles_per_gallon) * cost_of_gas
 print(f'Based on {miles_per_gallon} miles per gallon costing ${cost_of_gas} per gallon'
       f', the total cost of gas for today is: ${round(total_cost_of_gas,2)}')\
 
-vehicle wear and tear $.50 to $.60 per mile
+# vehicle wear and tear $.50 to $.60 per mile
 vehicle_wear_tear = int(miles_driven) * .50
 print(f'The total vehicle wear and tear charge for today is: ${vehicle_wear_tear}')
 
