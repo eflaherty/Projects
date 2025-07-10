@@ -24,8 +24,8 @@ print(f'The total vehicle wear and tear charge for today is: ${vehicle_wear_tear
 driving_time = input('How much time did you spend driving today in hours? ')
 print('You spent ' + driving_time + ' hours driving today!')
 per_hour_pay = 15.0
-if int(driving_time) > 0:
-    time_charge = int(driving_time) * per_hour_pay
+if float(driving_time) > 0:
+    time_charge = float(driving_time) * per_hour_pay
 else:
     time_charge = 0
 print(f'The total time charge for today (at ${per_hour_pay} per hour) is: ${time_charge}')
