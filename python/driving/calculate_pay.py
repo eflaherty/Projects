@@ -7,7 +7,7 @@
 
 # cost of gas
 miles_per_gallon = 21
-cost_of_gas = 2.89
+cost_of_gas = 2.48
 # cost_of_gas = input('What is the cost of gas today? ')
 miles_driven = input('How many miles were driven? ')
 print('You drove ' + miles_driven + ' miles today!')
@@ -24,7 +24,10 @@ print(f'The total vehicle wear and tear charge for today is: ${vehicle_wear_tear
 driving_time = input('How much time did you spend driving today in hours? ')
 print('You spent ' + driving_time + ' hours driving today!')
 per_hour_pay = 15.0
-time_charge = int(driving_time) * per_hour_pay
+if int(driving_time) > 0:
+    time_charge = int(driving_time) * per_hour_pay
+else:
+    time_charge = 0
 print(f'The total time charge for today (at ${per_hour_pay} per hour) is: ${time_charge}')
 
 print(f'The total charges for today are: ${(round(total_cost_of_gas,2) + vehicle_wear_tear + time_charge)}')
