@@ -7,28 +7,27 @@
 
 # cost of gas
 miles_per_gallon = 21
-cost_of_gas = 2.48
-# cost_of_gas = input('What is the cost of gas today? ')
+# cost_of_gas = 2.91
+cost_of_gas = input('What is the cost of gas today? ')
 miles_driven = input('How many miles were driven? ')
-print('You drove ' + miles_driven + ' miles today!')
+print('* You drove ' + miles_driven + ' miles today!')
 
-total_cost_of_gas = (int(miles_driven) / miles_per_gallon) * cost_of_gas
-print(f'Based on {miles_per_gallon} miles per gallon costing ${cost_of_gas} per gallon'
+total_cost_of_gas = (float(miles_driven) / miles_per_gallon) * float(cost_of_gas)
+print(f'* Based on {miles_per_gallon} miles per gallon costing ${cost_of_gas} per gallon'
       f', the total cost of gas for today is: ${round(total_cost_of_gas,2)}')\
 
 # vehicle wear and tear $.50 to $.60 per mile
-vehicle_wear_tear = int(miles_driven) * .50
-print(f'The total vehicle wear and tear charge for today is: ${vehicle_wear_tear}')
+vehicle_wear_tear = float(miles_driven) * .50
+print(f'* The total vehicle wear and tear charge for today is: ${vehicle_wear_tear}')
 
 # driver's time
 driving_time = input('How much time did you spend driving today in hours? ')
-print('You spent ' + driving_time + ' hours driving today!')
+print('* You spent ' + driving_time + ' hours driving today!')
 per_hour_pay = 15.0
 if float(driving_time) > 0:
     time_charge = float(driving_time) * per_hour_pay
 else:
     time_charge = 0
-print(f'The total time charge for today (at ${per_hour_pay} per hour) is: ${time_charge}')
+print(f'* The total time charge for today (at ${per_hour_pay} per hour) is: ${time_charge}')
 
-print(f'The total charges for today are: ${(round(total_cost_of_gas,2) + vehicle_wear_tear + time_charge)}')
-
+print(f'*** The total charges for today are: ${(round(total_cost_of_gas,2) + vehicle_wear_tear + time_charge)}')
