@@ -5,10 +5,10 @@ Category key: 🔴 MCAS/histamine · 🟢 Gut health · 🔵 Hashimoto's · 🟣
 Morning — Empty Stomach, Right on Waking
 - Armour Thyroid 🔵 — alone, with water only. Wait 30–60 minutes before eating, drinking anything else, or taking other supplements/meds.
 
-Mid-Morning (after thyroid 1 - 2 hours, with or after food)
-- Slippery elm 🟢 — between the thyroid window and the DAO/meal dose below; not stacked directly on minerals
+Mid-Morning (after thyroid 1 - 2 hours, no food or oral meds)
+- Slippery elm 🟢 — not stacked directly on minerals
 
-Late-Morning (2 hours after slippery elm 2, with or after food)
+Late-Morning (30 - 60 minutes after slippery elm, with or after food)
 - NAC 🟢 — relatively empty stomach, no specific conflicts
 - Seeking Health S. boulardii 🟢 — take with food (any meal works); label is clean (ascorbyl palmitate, vegetarian capsule, silica) with no histamine-flagged fillers
 - P5P (B6) 🔵 — flexible
@@ -16,12 +16,12 @@ Late-Morning (2 hours after slippery elm 2, with or after food)
 
 With Meals
 - K2+D3 🔵 — with a meal containing some fat, for absorption
-- Quercetin 🔴 — with a meal, ideally one with a bit of fat; often paired with DAO-style protocols
-- Magnesium glycinate/malate 🔵 — keep at least 4 hours from Armour Thyroid; midday or with a meal works
+- Quercetin 🔴 — with a meal, ideally one with a bit of fat
+- Magnesium glycinate/malate 🔵 — keep at least 4 hours from Armour Thyroid
 - Zinc picolinate 🔵 — same 4-hour rule from thyroid; can go with magnesium
 
 Afternoon
-- LDN (3–5pm) 🔵 — as you're already doing; no known absorption conflicts with anything else on the list
+- LDN (3–5pm) 🔵 — no known absorption conflicts with anything else on the list
 
 Evening
 - Zyrtec 🔴 — any time; evening if you notice drowsiness, otherwise flexible
