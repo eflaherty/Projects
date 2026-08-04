@@ -1,39 +1,42 @@
-# Daily Medication & Supplement Timing
+Daily Medication & Supplement Timing
 
-**Category key:** 🔴 MCAS/histamine · 🟢 Gut health · 🔵 Hashimoto's
+Category key: 🔴 MCAS/histamine · 🟢 Gut health · 🔵 Hashimoto's · 🟣 Hormone (topical)
 
-## Morning — Empty Stomach, Right on Waking
-- **Armour Thyroid** 🔵 — alone, with water only. Wait 30–60 minutes before eating, drinking anything else, or taking other supplements/meds.
+Morning — Empty Stomach, Right on Waking
+- Armour Thyroid 🔵 — alone, with water only. Wait 30–60 minutes before eating, drinking anything else, or taking other supplements/meds.
 
-## Mid-Morning (after thyroid wait, with or after food)
-- **Slippery elm** 🟢 — 1 - 2 hours after thyroid meds; not stacked directly on minerals
+Mid-Morning (after thyroid 1 - 2 hours, with or after food)
+- Slippery elm 🟢 — between the thyroid window and the DAO/meal dose below; not stacked directly on minerals
 
-## Late-Morning (after slippery elm wait, with or after food)
-- **S Boulardi** 🟢 — flexible
-- **NAC** 🟢 — relatively empty stomach, no specific conflicts
-- **P5P (B6)** 🔵 — flexible
-- **Liquid B12** 🔵 — flexible
+Late-Morning (2 hours after slippery elm 2, with or after food)
+- NAC 🟢 — relatively empty stomach, no specific conflicts
+- Seeking Health S. boulardii 🟢 — take with food (any meal works); label is clean (ascorbyl palmitate, vegetarian capsule, silica) with no histamine-flagged fillers
+- P5P (B6) 🔵 — flexible
+- Liquid B12 🔵 — flexible
 
-## With Meals
-- **K2+D3** 🔵 — with a meal containing some fat, for absorption
-- **Quercetin** 🔴 — with a meal, ideally one with a bit of fat; often paired with DAO-style protocols
+With Meals
+- K2+D3 🔵 — with a meal containing some fat, for absorption
+- Quercetin 🔴 — with a meal, ideally one with a bit of fat; often paired with DAO-style protocols
+- Magnesium glycinate/malate 🔵 — keep at least 4 hours from Armour Thyroid; midday or with a meal works
+- Zinc picolinate 🔵 — same 4-hour rule from thyroid; can go with magnesium
 
-## Afternoon
-- **LDN (3–5pm)** 🔵 — as you're already doing; no known absorption conflicts with anything else on the list
+Afternoon
+- LDN (3–5pm) 🔵 — as you're already doing; no known absorption conflicts with anything else on the list
 
-## Late Afternoon
-- **Magnesium glycinate/malate** 🔵 — keep at least **4 hours** from Armour Thyroid; midday or with a meal works
-- **Zinc picolinate** 🔵 — same 4-hour rule from thyroid; can go with magnesium
+Evening
+- Zyrtec 🔴 — any time; evening if you notice drowsiness, otherwise flexible
 
-## Evening
-- **Zyrtec** 🔴 — any time; evening if you notice drowsiness, otherwise flexible
-- **L-theanine** 🔵 — flexible; some prefer it before a stressful period or later in the day for calming effect (stress reduction can indirectly help mast cell reactivity)
+Before Bed
+- L-theanine 🔵 — flexible; some prefer it before a stressful period or later in the day for calming effect (stress reduction can indirectly help mast cell reactivity)
+- Karuna Pure Progesterone 🟣 — topical, applied to skin (rotate sites: inner thighs/arms, neck, chest, abdomen)
 
-## As needed
-- **DAO product (Life Extension)** 🔴 — right before meals, so it's active when dietary histamine is being digested
-- **Selenium (Thorne)** 🔵 — flexible; no thyroid conflict (selenium is actually a thyroid cofactor), some take it alongside Armour Thyroid for that reason
----
+Anytime (Topical, Skin-Applied)
+- Quicksilver Bi-Est+ 🟣 — topical serum, 2 pumps once daily
 
-## The Two Firm Rules
-1. **Armour Thyroid** — isolated, empty stomach, nothing else for 30–60 min minimum
-2. **Magnesium & zinc** — kept at least 4 hours from the thyroid dose
+As needed
+- DAO product (Life Extension) 🔴 — right before meals, so it's active when dietary histamine is being digested
+- Selenium (Thorne) 🔵 — flexible; no thyroid conflict (selenium is actually a thyroid cofactor), some take it alongside Armour Thyroid for that reason
+
+The Two Firm Rules
+Armour Thyroid — isolated, empty stomach, nothing else for 30–60 min minimum
+Magnesium & zinc — kept at least 4 hours from the thyroid dose
