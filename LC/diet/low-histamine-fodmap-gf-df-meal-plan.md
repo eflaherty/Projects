@@ -69,3 +69,6 @@
 ---
 
 *This plan is a short-term elimination-style template. Low-FODMAP and low-histamine approaches are typically meant to be followed for a limited period before reintroducing foods one at a time to identify your specific triggers. Consider working with a dietitian experienced in food intolerances to guide reintroduction and avoid unnecessary long-term restriction.*
+
+
+
