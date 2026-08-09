@@ -24,7 +24,7 @@
 - **LDN (3–5pm)** 🔵 — as you're already doing; no known absorption conflicts with anything else on the list
 
 ## Evening
-- **Allegra (fexofenadine)** 🔴 — best on an empty stomach; avoid taking with fruit juices (grapefruit, orange, apple) since they can significantly reduce absorption — space at least 2 hours from juice if you drink any. Generally non-sedating (unlike Zyrtec), so less of a concern stacking with anything else sedating, though individual response varies
+- **Allegra (fexofenadine)** 🔴 — best on an empty stomach; avoid taking with fruit juices (grapefruit, orange, apple) since they can significantly reduce absorption — space at least 2 hours from juice if you drink any. Generally non-sedating (unlike Zyrtec), so less of a concern stacking with anything else sedating, though individual response varies. **Confirmed lactose-free** (inactive ingredients: colloidal silicon dioxide, croscarmellose sodium, hypromellose, iron oxide blends, magnesium stearate, microcrystalline cellulose, polyethylene glycol, povidone, pregelatinized starch, titanium dioxide) — low FODMAP
 - **L-theanine** 🔵 — flexible; some prefer it before a stressful period or later in the day for calming effect (stress reduction can indirectly help mast cell reactivity)
 - **Karuna Pure Progesterone** 🟣 — topical, applied to skin (rotate sites: inner thighs/arms, neck, chest, abdomen); many use it in the evening since progesterone can have a calming/sleep-supportive effect, but this is a common convention rather than an absorption requirement — follow your practitioner's protocol/cycle timing if you have one
 
@@ -41,4 +41,5 @@
 ## The Two Firm Rules
 1. **Armour Thyroid** — isolated, empty stomach, nothing else for 30–60 min minimum
 2. **Magnesium & zinc** — kept at least 4 hours from the thyroid dose
+
 
