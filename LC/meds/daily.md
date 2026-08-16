@@ -10,17 +10,17 @@
 
 ## Late-Morning (2 hours after L-Glutamine)
 - **NAC** 🟢 — relatively empty stomach, no specific conflicts
-- **P5P (B6)** 🔵 — flexible
 - **Liquid B12** 🔵 — flexible
 
 ## With Meals
+- **Seeking Health S. boulardii** 🟢 — take with food (any meal works); label is clean (ascorbyl palmitate, vegetarian capsule, silica) with no histamine-flagged fillers
 - **K2+D3** 🔵 — with a meal containing some fat, for absorption
 - **Quercetin** 🔴 — with a meal, ideally one with a bit of fat; often paired with DAO-style protocols
-- **Magnesium glycinate/malate** 🔵 — keep at least **4 hours** from Armour Thyroid; midday or with a meal works
-- **Zinc picolinate** 🔵 — same 4-hour rule from thyroid; can go with magnesium
-- **Nordic Naturals Omega-3 Liquid** 🔵 — 1 teaspoon (~5mL) with food; no gelatin — just fish oil, natural lemon flavor, d-alpha tocopherol (antioxidant), and rosemary extract (natural preservative). No calcium/thyroid-blocking ingredients, so no special thyroid spacing needed. Refrigerate after opening and use within 3 months. Repeated "fishy" burping/aftertaste can be a sign of oxidation, worth watching for
 
 ## Afternoon
+- **Magnesium glycinate/malate** 🔵 — keep at least **4 hours** from Armour Thyroid; afternoon works well for this
+- **Zinc picolinate** 🔵 — same 4-hour rule from thyroid; can go with magnesium
+- **Nordic Naturals Omega-3 Liquid** 🔵 — 1 teaspoon (~5mL) with food; no gelatin — just fish oil, natural lemon flavor, d-alpha tocopherol (antioxidant), and rosemary extract (natural preservative). No calcium/thyroid-blocking ingredients, so no special thyroid spacing needed. Refrigerate after opening and use within 3 months. Repeated "fishy" burping/aftertaste can be a sign of oxidation, worth watching for
 - **LDN (3–5pm)** 🔵 — as you're already doing; no known absorption conflicts with anything else on the list
 
 ## Evening
@@ -42,4 +42,25 @@
 1. **Armour Thyroid** — isolated, empty stomach, nothing else for 30–60 min minimum
 2. **Magnesium & zinc** — kept at least 4 hours from the thyroid dose
 
+## Recently Removed
+- ~~Fish oil (Dr. Tobias)~~ — discontinued
+- ~~Jarrow S. boulardii + MOS~~ — discontinued
+- ~~Vital Nutrients Menopause Support~~ — discontinued
+- ~~Slippery elm~~ — discontinued
+- ~~Zyrtec~~ — replaced with Allegra
+- ~~Traditional Medicinals Nighty Night Extra tea~~ (evening slot) — discontinued, later re-added to As Needed
+- ~~P5P (B6)~~ — discontinued
+- ~~Member's Mark Loratadine 10mg~~ — swapped back to Allegra
 
+## Recently Added
+- **Quicksilver Bi-Est+** — topical hormone
+- **Karuna Pure Progesterone** — topical hormone
+- **Nordic Naturals Omega-3 Liquid** — replaces the discontinued Dr. Tobias fish oil (softgel); no gelatin
+- **NOW Sports L-Glutamine** — replaces slippery elm for gut support
+- **Traditional Medicinals Nighty Night Extra tea** — as-needed sleep support
+- **Seeking Health S. boulardii** — re-added
+- **Allegra (fexofenadine)** — restored (lactose-free, unlike loratadine)
+
+---
+
+*This layout reflects known absorption/interaction patterns discussed in your conversation with Claude. It is not a substitute for guidance from your prescriber or pharmacist, especially given the complexity of your regimen — worth a check-in before finalizing.*
