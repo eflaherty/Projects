@@ -6,29 +6,28 @@
 - **Armour Thyroid** 🔵 — alone, with water only. Wait 30–60 minutes before eating, drinking anything else, or taking other supplements/meds.
 
 ## Mid-Morning (1–2 hours after thyroid)
-- **NOW Sports L-Glutamine** 🟢 — 1 rounded teaspoon (~5g), preferably between meals; pure free-form powder with no fillers/"other ingredients" at all, so nothing to flag for MCAS. Take 1–2x daily as needed
-
-## Late-Morning (2 hours after L-Glutamine)
+- **NOW Sports L-Glutamine** 🟢 — 1 rounded teaspoon (~5g), preferably between meals; Take 1 - 2x daily as needed
+## Late-Morning 
 - **NAC** 🟢 — relatively empty stomach, no specific conflicts
 - **Liquid B12** 🔵 — flexible
 
 ## With Meals
-- **Seeking Health S. boulardii** 🟢 — take with food (any meal works); label is clean (ascorbyl palmitate, vegetarian capsule, silica) with no histamine-flagged fillers
+- **Seeking Health S. boulardii** 🟢 — take with food (any meal works)
 - **K2+D3** 🔵 — with a meal containing some fat, for absorption
 - **Quercetin** 🔴 — with a meal, ideally one with a bit of fat; often paired with DAO-style protocols
 
 ## Afternoon
-- **Nordic Naturals Omega-3 Liquid** 🔵 — 1 teaspoon (~5mL) with food; no gelatin — just fish oil, natural lemon flavor, d-alpha tocopherol (antioxidant), and rosemary extract (natural preservative). No calcium/thyroid-blocking ingredients, so no special thyroid spacing needed. Refrigerate after opening and use within 3 months. Repeated "fishy" burping/aftertaste can be a sign of oxidation, worth watching for
-- **LDN (3–5pm)** 🔵 — as you're already doing; no known absorption conflicts with anything else on the list
+- **Nordic Naturals Omega-3 Liquid** 🔵 — 1 teaspoon (~5mL) with food; no gelatin — just fish oil, natural lemon flavor, d-alpha tocopherol (antioxidant), and rosemary extract (natural preservative). Refrigerate after opening and use within 3 months. Repeated "fishy" burping/aftertaste can be a sign of oxidation, worth watching for
+- **LDN (3–5pm)** 🔵
 
 ## Evening
 - **Zinc picolinate** 🔵 — same 4-hour rule from thyroid as magnesium
-- **Allegra (fexofenadine)** 🔴 — best on an empty stomach; avoid taking with fruit juices (grapefruit, orange, apple) since they can significantly reduce absorption — space at least 2 hours from juice if you drink any. Generally non-sedating (unlike Zyrtec), so less of a concern stacking with anything else sedating, though individual response varies. **Confirmed lactose-free** (inactive ingredients: colloidal silicon dioxide, croscarmellose sodium, hypromellose, iron oxide blends, magnesium stearate, microcrystalline cellulose, polyethylene glycol, povidone, pregelatinized starch, titanium dioxide) — low FODMAP
+- **Allegra (fexofenadine)** 🔴 — best on an empty stomach; avoid taking with fruit juices (grapefruit, orange, apple) since they can significantly reduce absorption — space at least 2 hours from juice if you drink any.
 
 ## Before Bed
 - **Magnesium glycinate/malate** 🔵 — keep at least **4 hours** from Armour Thyroid; before bed works well for this (magnesium glycinate is also commonly used specifically for sleep support)
-- **L-theanine** 🔵 — calming amino acid, good fit for a bedtime slot
-- **Progesterone Micro 100mg capsule (Rx, mfg. Xiromed)** 🟣 — as prescribed. **Contains peanut oil** as the capsule base (standard across generic oral micronized progesterone, including this Xiromed version), plus gelatin, glycerin, soy lecithin, titanium dioxide, and medium chain triglycerides. Important to flag regardless of MCAS: this is a genuine allergy risk if you have any peanut sensitivity — worth confirming with your prescriber/pharmacist if that's ever been a concern. Bedtime dosing is standard for this exact formulation since it commonly causes drowsiness (a metabolite has a mild sedative/GABA-active effect) — this is likely part of why it was prescribed for nighttime
+- **L-theanine** 🔵 — calming amino acid
+- **Progesterone Micro 100mg capsule (Rx, mfg. Xiromed)** 🟣 — as prescribed. **Contains peanut oil** as the capsule base (standard across generic oral micronized progesterone, including this Xiromed version), plus gelatin, glycerin, soy lecithin, titanium dioxide, and medium chain triglycerides. Bedtime dosing is standard for this exact formulation since it commonly causes drowsiness (a metabolite has a mild sedative/GABA-active effect)
 
 ## Anytime (Topical, Skin-Applied)
 - **Quicksilver Bi-Est+** 🟣 — topical serum, 2 pumps once or twice daily to smooth skin (wrists, inner arms, neck, abdomen, chest); for external use only, not swallowed, so it doesn't interact with oral medication absorption timing the way capsules/tablets do.
