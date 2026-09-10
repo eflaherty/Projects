@@ -24,6 +24,7 @@
 - **Zyrtec (cetirizine 10 mg)** 🔴 
 
 ## Before Bed
+- **Now Magnesium Glycinate** 🔵 
 - **Nutricost L-Theanine 200mg** 🔵 — 1 capsule daily, good fit for a bedtime slot; other ingredients are gelatin capsule, rice flour, magnesium stearate (vegetable source), microcrystalline cellulose, silicon dioxide — no xylitol, no citric acid/citrus flavor One trade-off: gelatin capsule rather than vegetarian
 - **Progesterone Micro 100mg capsule (Rx, mfg. Xiromed)** 🟣 — as prescribed. **Contains peanut oil** as the capsule base (standard across generic oral micronized progesterone, including this Xiromed version), plus gelatin, glycerin, soy lecithin, titanium dioxide, and medium chain triglycerides. Important to flag regardless of MCAS: this is a genuine allergy risk if you have any peanut sensitivity — worth confirming with your prescriber/pharmacist if that's ever been a concern. Bedtime dosing is standard for this exact formulation since it commonly causes drowsiness (a metabolite has a mild sedative/GABA-active effect) — this is likely part of why it was prescribed for nighttime
 
