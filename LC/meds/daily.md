@@ -6,7 +6,7 @@
 - **Armour Thyroid** 🔵 — alone, with water only.
  
 ## 2 Hours After Thyroid (~8:30)
-- **DGL Plus** will be starting soon
+- **DGL Plus** - slippery elm and marshmallow root means take 2 hours away from any other meds, food okay.
 
 ## Late-Morning (2 hours after DGL Plus) (10:30)
 - **Pure Encapsulations Hist Reset** 🔴 — 2 capsules daily, between meals (per label — note this differs from "with meals" timing of your other items below). Clean vegetarian capsule (cellulose, water). Contains 300mg quercetin and 100mg NAC per serving (replaces your separate Quercetin and NAC), plus vitamin C, riboflavin, niacin, molybdenum, bromelain, and luteolin/rutin (additional mast-cell-stabilizing flavonoids)
@@ -26,13 +26,12 @@
 ## Before Bed
 - **Now Magnesium Glycinate** 🔵 
 - **Nutricost L-Theanine 200mg** 🔵 — 1 capsule daily, good fit for a bedtime slot; other ingredients are gelatin capsule, rice flour, magnesium stearate (vegetable source), microcrystalline cellulose, silicon dioxide — no xylitol, no citric acid/citrus flavor One trade-off: gelatin capsule rather than vegetarian
-- **Progesterone Micro 100mg capsule (Rx, mfg. Xiromed)** 🟣 — as prescribed. **Contains peanut oil** as the capsule base (standard across generic oral micronized progesterone, including this Xiromed version), plus gelatin, glycerin, soy lecithin, titanium dioxide, and medium chain triglycerides. Important to flag regardless of MCAS: this is a genuine allergy risk if you have any peanut sensitivity — worth confirming with your prescriber/pharmacist if that's ever been a concern. Bedtime dosing is standard for this exact formulation since it commonly causes drowsiness (a metabolite has a mild sedative/GABA-active effect) — this is likely part of why it was prescribed for nighttime
-
+- **Progesterone Micro 100mg capsule (Rx, mfg. Xiromed)** 🟣 — as prescribed. **Contains peanut oil** as the capsule base (standard across generic oral micronized progesterone, including this Xiromed version), plus gelatin, glycerin, soy lecithin, titanium dioxide, and medium chain triglycerides. Important to flag regardless of MCAS: this is a genuine allergy risk if you have any peanut sensitivity
+  
 ## Anytime (Topical, Skin-Applied)
 - **Estradiol Transdermal Patch (Mylan), 0.0375mg/day** 🟣🔴 — mast cells express estrogen receptor-alpha directly, so estradiol can trigger histamine release on its own and amplify IgE-triggered release; it also suppresses DAO, the enzyme your DAO supplement supports. Transdermal + progesterone-dominant regimens (like yours) are generally better tolerated for MCAS than oral estrogen-only ones — this is part of why the DAO/quercetin/Zyrtec trio matters alongside it
 
 ## Coming Soon... from a pill container near you
-- **Pure Encapsulations DGL Plus** 🟢 — 1 capsule daily, before a meal. Contains deglycyrrhizinated licorice (DGL) 300mg, aloe vera 50mg, slippery elm 100mg, marshmallow root 200mg. Clean vegetarian capsule (cellulose, water), ascorbyl palmitate — no calcium, no lactose. **DGL form means no blood-pressure concern** (unlike regular licorice root — the glycyrrhizin compound is removed). However, **contains slippery elm and marshmallow root**, both mucilage-based — manufacturer's own label warns these may impair absorption of other oral medications, so kept at a full 2 hours from Armour Thyroid
 - **Nutricost Zinc Carnosine (86mg, 18mg elemental zinc)** 🟢 — same 4-hour rule from thyroid as magnesium; clean label (rice flour, hypromellose capsule, magnesium stearate vegetable source), no calcium/lactose. Zinc carnosine is specifically studied for gastric/mucosal lining support (vs. general zinc absorption from picolinate), so it complements your gut-health items like L-Glutamine
 
 ## As Needed
