@@ -29,9 +29,9 @@
 - **Progesterone Micro 100mg capsule (Rx, mfg. Xiromed)** 🟣 — as prescribed. **Contains peanut oil** as the capsule base (standard across generic oral micronized progesterone, including this Xiromed version), plus gelatin, glycerin, soy lecithin, titanium dioxide, and medium chain triglycerides. Important to flag regardless of MCAS: this is a genuine allergy risk if you have any peanut sensitivity
   
 ## Anytime (Topical, Skin-Applied)
-- **Estradiol Transdermal Patch (Mylan), 0.0375mg/day** 🟣🔴 — mast cells express estrogen receptor-alpha directly, so estradiol can trigger histamine release on its own and amplify IgE-triggered release; it also suppresses DAO, the enzyme your DAO supplement supports. Transdermal + progesterone-dominant regimens (like yours) are generally better tolerated for MCAS than oral estrogen-only ones — this is part of why the DAO/quercetin/Zyrtec trio matters alongside it
+- **Estradiol Transdermal Patch (Mylan), 0.0375mg 2/week** 🟣🔴 — mast cells express estrogen receptor-alpha directly, so estradiol can trigger histamine release on its own and amplify IgE-triggered release; it also suppresses DAO, the enzyme your DAO supplement supports. Transdermal + progesterone-dominant regimens (like yours) are generally better tolerated for MCAS than oral estrogen-only ones — this is part of why the DAO/quercetin/Zyrtec trio matters alongside it
 
-## Coming Soon... from a pill container near you
+## Coming Soon... hmmm
 - **Nutricost Zinc Carnosine (86mg, 18mg elemental zinc)** 🟢 — same 4-hour rule from thyroid as magnesium; clean label (rice flour, hypromellose capsule, magnesium stearate vegetable source), no calcium/lactose. Zinc carnosine is specifically studied for gastric/mucosal lining support (vs. general zinc absorption from picolinate), so it complements your gut-health items like L-Glutamine
 
 ## As Needed
