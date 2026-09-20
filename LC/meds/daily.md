@@ -17,8 +17,8 @@
 - **Nordic Naturals Omega-3 Liquid** 🔵 — 1 teaspoon (~5mL) with food; no gelatin — just fish oil, natural lemon flavor, d-alpha tocopherol (antioxidant), and rosemary extract (natural preservative). No calcium/thyroid-blocking ingredients, so no special thyroid spacing needed. Refrigerate after opening and use within 3 months. Repeated "fishy" burping/aftertaste can be a sign of oxidation, worth watching for
 
 ## Afternoon
-- **Liquid B12** 🔵 — flexible
-- **LDN (3–5pm)** 🔵
+- **Liquid B12** 🔵 — flexible, not too late though because energy
+- **LDN (3–5pm)** 🔵 - skip on weekends
 
 ## Evening
 - **Zyrtec (cetirizine 10 mg)** 🔴 
