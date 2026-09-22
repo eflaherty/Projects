@@ -5,6 +5,8 @@
 - Rice - jasmine
 - Rice - white
 - Rice - brown
+- Rice - basmati
+- Congee
 - Sorghum
 
 ## Resistant Starches
@@ -22,13 +24,7 @@
 - Cabbage, Chinese
 - Cabbage, Green and Red
 - Cauliflower
-- Chives
-- Cilantro
 - Collards
-- Garlic
-- Ginger
-- Mint
-- Parsley
 - Scallions / Green Onions
 - Squash, Butternut
 - Squash, Spaghetti
@@ -50,7 +46,7 @@
 - Beef - only if unaged and not ground
 - Bison - only if unaged and not ground
 - Chicken
-- Eggs (if tolerated)
+- Eggs
 - Lamb
 - Pork
 - Turkey
@@ -69,7 +65,6 @@
 - Almonds - with skins
 - Brazil nuts - 3 to 4 nuts/day max
 - Chia seeds
-- Chestnuts - fresh
 - Coconut cream
 - Coconut meat - fresh
 - Coconut milk - 100% pure, no additives
@@ -117,6 +112,7 @@
 - Lemongrass
 - Mint
 - Oregano
+- Parsley
 - Peppermint
 - Rosemary
 - Saffron
@@ -184,12 +180,7 @@ These are the foods to make the bulk of meals from.
 - Chinese cabbage
 - Green cabbage
 - Red cabbage
-- Chives
-- Cilantro
 - Collards
-- Ginger
-- Mint
-- Parsley
 - Scallion / green onion tops
 - Spaghetti squash
 - Summer squash
@@ -247,7 +238,6 @@ These foods are on the approved food list but may be harder to incorporate into 
 - Asparagus
 - Brussels sprouts
 - Cauliflower
-- Garlic
 - Larger servings of sweet potato
 - Larger servings of butternut squash
 
@@ -398,7 +388,6 @@ Avoid:
 - Kimchi
 - Kombucha
 - Miso
-- Soy sauce
 - Vinegar
 - Cured meats
 - Salami
