@@ -4,7 +4,6 @@
 - Use fresh proteins only — cook and eat the same day when possible. Freeze leftovers immediately rather than refrigerating for later (histamine builds up faster in the fridge than in the freezer).
 - Portions of higher-FODMAP-adjacent foods (like bell pepper, certain fruits) are kept small/monitored per typical low-FODMAP serving sizes.
 - Swap any protein or vegetable for another item from the "fits all four" list in the summary if you have allergies or preferences.
-- This is a starting template, not a prescription — adjust to your own trigger list as you learn it.
 
 ---
 
