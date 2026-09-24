@@ -156,6 +156,7 @@
 
 # Foods reintroduced
 
+- All natural sausage (breakfast tacos with eggs and almond flour tortilla)
 - Peanut butter
 - Chicken tamale with red sauce (little stomach burn but ate early enough in the day that it worked)
 - GF mint Oreos (80/20 if I can hack it)
