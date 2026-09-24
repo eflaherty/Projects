@@ -156,14 +156,14 @@
 
 # Foods reintroduced
 
-## Peanut butter
-## Chicken tamale with red sauce (little stomach burn but ate early enough in the day that it worked)
-## GF mint Oreos (80/20 if I can hack it)
-## Oatmilk peanut butter and chocolate chip ice cream
-## pumpkins
-
+- Peanut butter
+- Chicken tamale with red sauce (little stomach burn but ate early enough in the day that it worked)
+- GF mint Oreos (80/20 if I can hack it)
+- Oatmilk peanut butter and chocolate chip ice cream
+- pumpkins
 
 ---
+
 # Low-FODMAP + Low-Histamine Food Framework
 
 ## 🟢 Best Foundation Foods
