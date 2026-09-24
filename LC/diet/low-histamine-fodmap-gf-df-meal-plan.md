@@ -8,7 +8,7 @@
 ---
 
 ## Day 1
-- **Breakfast:** Rice porridge (cooked rice + rice milk) with blueberries and a drizzle of maple syrup
+- **Breakfast:** Congee with blueberries and a drizzle of maple syrup
 - **Lunch:** Grilled chicken breast, quinoa, steamed carrots and green beans, olive oil + lemon-free dressing (use a splash of rice vinegar instead of citrus if sensitive)
 - **Dinner:** Baked chicken thigh, roasted potatoes, sautéed zucchini
 - **Snack:** Rice cakes with a small amount of unsalted, fresh nut butter (if tolerated) or plain rice cakes
@@ -44,7 +44,7 @@
 - **Snack:** Rice cakes with a little maple syrup
 
 ## Day 7
-- **Breakfast:** Rice porridge with cantaloupe
+- **Breakfast:** Congee with cantaloupe
 - **Lunch:** Turkey lettuce wraps with rice, cucumber, shredded carrot
 - **Dinner:** Roasted turkey breast, roasted potato wedges, steamed green beans
 - **Snack:** Kiwi
@@ -63,6 +63,6 @@
 
 **Fats/Misc:** Olive oil, maple syrup, rice milk, fresh basil/parsley (test tolerance individually)
 
-**Avoid:** Dairy, gluten-containing grains, onion, garlic, legumes, tomato, eggplant, spinach, avocado, citrus, aged/cured/fermented foods, leftovers held more than a day, alcohol, vinegar (except rice vinegar in small amounts if tolerated)
+**Avoid:** Dairy, gluten-containing grains, onion, garlic, legumes, tomato, eggplant, spinach, avocado, citrus, aged/cured/fermented foods, leftovers, alcohol, vinegar 
 
 
