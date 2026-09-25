@@ -14,7 +14,6 @@
 ## With Meals
 - **Ortho Biotic Powder (Ortho Molecular)** 🟢 — 1 scoop mixed with water or beverage, with food; broader-spectrum than S. boulardii alone — this is a 7-strain blend (Lactobacillus and Bifidobacterium species plus Saccharomyces boulardii). Clean label: just microcrystalline cellulose and silicon dioxide as other ingredients, no lactose, no FODMAP-flagged sweeteners
 - **K2+D3** 🔵 — with a meal containing some fat, for absorption
-- **Nordic Naturals Omega-3 Liquid** 🔵 — 1 teaspoon (~5mL) with food; no gelatin — just fish oil, natural lemon flavor, d-alpha tocopherol (antioxidant), and rosemary extract (natural preservative). No calcium/thyroid-blocking ingredients, so no special thyroid spacing needed. Refrigerate after opening and use within 3 months. Repeated "fishy" burping/aftertaste can be a sign of oxidation, worth watching for
 
 ## Afternoon
 - **Liquid B12** 🔵 — flexible, not too late though because energy
@@ -35,6 +34,7 @@
 - **Nutricost Zinc Carnosine (86mg, 18mg elemental zinc)** 🟢 — same 4-hour rule from thyroid as magnesium; clean label (rice flour, hypromellose capsule, magnesium stearate vegetable source), no calcium/lactose. Zinc carnosine is specifically studied for gastric/mucosal lining support (vs. general zinc absorption from picolinate), so it complements your gut-health items like L-Glutamine
 
 ## As Needed
+- **Nordic Naturals Omega-3 Liquid** 🔵 — 1 teaspoon (~5mL) with food; no gelatin — just fish oil, natural lemon flavor, d-alpha tocopherol (antioxidant), and rosemary extract (natural preservative). No calcium/thyroid-blocking ingredients, so no special thyroid spacing needed. Refrigerate after opening and use within 3 months. Repeated "fishy" burping/aftertaste can be a sign of oxidation, worth watching for
 - **DAO product (Life Extension)** 🔴 — right before meals, so it's active when dietary histamine is being digested
 - **Pepcid (famotidine)** 🔴 — H2 blocker; complements rather than duplicates Zyrtec, which is an H1 blocker — together they're a common MCAS combo covering both histamine receptor types (but there's also H3 and H4). **Version matters here**: brand-name Pepcid AC Maximum Strength is lactose-free and dye-free (carnauba wax, hydroxypropyl cellulose, hypromellose, magnesium stearate, microcrystalline cellulose, pregelatinized starch, talc, titanium dioxide). Generic versions (e.g. Equate, most store-brand famotidine) commonly contain **lactose monohydrate** and **artificial dye lakes** — worth choosing the brand-name version or checking your specific generic's label if you're being careful about FODMAP or dye sensitivity
 - **Zofran** 🔴 🟢  — just in case, haven't taken it yet but I have it with me always.
