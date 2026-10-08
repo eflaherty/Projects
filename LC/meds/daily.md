@@ -44,6 +44,3 @@
 1. **Armour Thyroid** — isolated, empty stomach, nothing else for 30–60 min minimum
 2. **Magnesium & zinc carnosine** — kept at least 4 hours from the thyroid dose
 
- Carnosine
-- ~~Ortho Biotic Powder~~ — removed again (round two)
-- ~~Pure Encapsulations DGL Plus~~ — discontinued
