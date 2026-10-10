@@ -157,7 +157,8 @@
 # Foods reintroduced
 
 - yellow curry with chicken, potatoes, carrots, and I have brain fog….TBD
-- massaman curry with chicken, potato, and peanuts frozen Greek yogurt bars
+- massaman curry with chicken, potato, and peanuts
+- frozen Greek yogurt bars
 - Quinn maple almond butter and peanut butter and honey pretzels
 - All natural sausage (breakfast tacos with eggs and almond flour tortilla)
 - Peanut butter - no bueno, limit!!
