@@ -16,7 +16,7 @@
 - **NasalCrom** 🔴 — dose 2 of 4, 1 spray in each nostril
 
 ## Afternoon
-- **LDN (Rx, 3–5pm)** 🔵 - skip on weekends
+- **LDN (Rx, 3–5pm)** 🔵 - alternate days (if needed try MWF)
 - **NasalCrom** 🔴 — dose 3 of 4, 1 spray in each nostril
 
 ## Evening
