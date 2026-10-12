@@ -2,7 +2,7 @@
 
 **Category key:** 🔴 MCAS/histamine · 🟢 Gut health · 🔵 Hashimoto's · 🟣 Hormone · 🟡 Chinese herbs
 
-## Morning — Empty Stomach, Right on Waking (6:30)
+## Morning — Empty Stomach, Right on Waking (~6:30)
 - **Armour Thyroid (Rx)** 🔵 — with water only, on an empty stomach (selenium is the one thing taken with it)
 - **Selenium (Thorne)** 🔵 — taken together with Armour Thyroid; no thyroid conflict (selenium is actually a thyroid cofactor)
 - **NasalCrom (cromolyn sodium nasal spray)** 🔴 — dose 1 of 4, 1 spray in each nostril. Mast cell stabilizer, not an antihistamine: it works by keeping mast cells from releasing histamine in the first place. Label directions are 3–4 times a day, every 4–6 hours, and it works best used regularly and *before* exposure to triggers; it can take several days to 1–2 weeks to notice the full effect. Inactive ingredients: benzalkonium chloride (a preservative that can irritate the nose in some people), edetate disodium, purified water
@@ -12,11 +12,13 @@
 - **Minor Bupleurum Formula (Xiao Chai Hu Tang)** 🟡 — dose 1 of 3, 3 tablets
 
 ## With Meals
+- **Seeking Health ProBiota HistaminX** 🔴🟢 — daily; low-histamine probiotic that leaves out histamine-producing strains. Clean label (microcrystalline cellulose, vegetarian acid-resistant capsule, L-leucine, silica)
 - **Minor Bupleurum Formula (Xiao Chai Hu Tang)** 🟡 — dose 2 of 3, 3 tablets
 - **NasalCrom** 🔴 — dose 2 of 4, 1 spray in each nostril
 
 ## Afternoon
-- **LDN (Rx, 3–5pm)** 🔵 - alternate days (if needed try MWF)
+- **LDN (Rx, 3–5pm)** 🔵 - every other day (try MWF next if needed)
+- **Allegra (fexofenadine) 180 mg** 🔴 — daily, H1 blocker, generally non-sedating. Take with water, not fruit juice (grapefruit, orange, apple juice can reduce absorption)
 - **NasalCrom** 🔴 — dose 3 of 4, 1 spray in each nostril
 
 ## Evening
@@ -41,12 +43,12 @@
 - **NOW Sports L-Glutamine** 🟢 — 1 rounded teaspoon (~5g), preferably between meals; pure free-form powder with no fillers/"other ingredients" at all, so nothing to flag for MCAS
 - **NOW Ginger Root 550mg** 🟢 — with food if you're prone to stomach sensitivity (otherwise flexible); Generally considered low-histamine/MCAS-friendly. Mild blood-thinning effect, worth noting if ever prescribed an anticoagulant
 
-## Coming Soon... hmmm. This zinc has skills - it grew legs and walked away!!
+## Coming Soon...
 - **Nutricost Zinc Carnosine (86mg, 18mg elemental zinc)** 🟢 — same 4-hour rule from thyroid as magnesium; clean label (rice flour, hypromellose capsule, magnesium stearate vegetable source), no calcium/lactose. Zinc carnosine is specifically studied for gastric/mucosal lining support (vs. general zinc absorption from picolinate), so it complements your gut-health items like L-Glutamine
 
 ---
 
 ## The Two Firm Rules
 1. **Armour Thyroid** — empty stomach with water only (selenium is the one exception), no food or other supplements for 30–60 min minimum
-2. **Magnesium & zinc carnosine** — kept at least 4 hours from the thyroid dose
+2. **Magnesium & zinc carnosine** — kept at least 4 hours from thyroid meds
    
