@@ -24,7 +24,6 @@
 - Cabbage, Green and Red
 - Cauliflower
 - Collards
-- Scallions / Green Onions
 - Squash, Butternut
 - Squash, Spaghetti
 - Squash, Summer
@@ -81,14 +80,11 @@
 
 ## Fats & Oils
 - Avocado oil - cold pressed
-- Butter - from grass fed cows
 - Coconut oil - extra virgin
 - Flax oil - cold pressed
 - Ghee - from grass fed cows
-- Lard - if kept frozen, and thawed for individual use
 - Macadamia oil
 - MCT oil
-- Meat drippings - fresh
 - Olive oil - extra virgin
 - Palm oil - extra virgin, unprocessed
 - Rice bran oil
@@ -104,7 +100,6 @@
 - Cilantro
 - Cumin
 - Dill
-- Garlic
 - Ginger
 - Lemongrass
 - Mint
@@ -144,9 +139,6 @@
 
 ## Milk and Dairy
 - Coconut milk - plain
-- Butter - from grass fed cows
-- Cream - from grass fed cows
-- Cream cheese - from grass fed cows
 - Ghee - from grass fed cows
 - Goat milk
 - Ricotta cheese - from grass fed cows
@@ -155,15 +147,15 @@
 ---
 
 # Foods reintroduced
-
-- yellow curry with chicken, potatoes, carrots, and I have brain fog….TBD
+- apples and dark chocolate 
+- dairy free mozzarella 
+- yellow curry with chicken, potatoes, carrots, water chestnuts, and bean sprouts
 - massaman curry with chicken, potato, and peanuts
 - frozen Greek yogurt bars
-- Quinn maple almond butter and peanut butter and honey pretzels
+- Quinn maple almond butter and peanut butter and honey pretzels - PB no bueno 🥲
 - All natural sausage (breakfast tacos with eggs and almond flour tortilla)
-- Peanut butter - no bueno, limit!!
+- Peanut butter - no bueno!!
 - Chicken tamale with red sauce (little stomach burn but ate early enough in the day that it worked)
-- GF mint Oreos (80/20 if I can hack it)
 - Oatmilk peanut butter and chocolate chip 🍨 mango chantilly cake - better than PB!
 
 ---
