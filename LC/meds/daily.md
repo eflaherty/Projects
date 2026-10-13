@@ -33,8 +33,6 @@ Category key: 🔴 MCAS/histamine 🟢 Gut health 🔵 Hashimoto's 🟣 Hormone 
 
 * LDN (Rx, 3–5 pm) 🔵 — every other day; consider MWF next if needed
 
-* Allegra (fexofenadine) 180 mg 🔴 — daily; take with water, not fruit juice
-
 * NasalCrom 🔴 — dose 3 of 4, 1 spray in each nostril
 
 ## Evening
