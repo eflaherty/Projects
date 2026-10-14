@@ -1,5 +1,5 @@
 # Daily Rhythm
-- 10 hour eating window (8 AM - 6 PM), 14 hours fasting
+- 10 hour eating window, 14 hours fasting
 
 ## Breakfast
 - 8 - 10 AM (substantial cooked grains, easy to digest and warm with a little protein) - grounding & energizing
