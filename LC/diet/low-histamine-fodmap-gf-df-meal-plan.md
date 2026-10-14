@@ -9,20 +9,20 @@
 
 ## Day 1
 - **Breakfast:** Congee with blueberries and a drizzle of maple syrup
-- **Lunch:** Grilled chicken breast, quinoa, steamed carrots and green beans, olive oil + lemon-free dressing (use a splash of rice vinegar instead of citrus if sensitive)
+- **Lunch:** Grilled chicken breast, quinoa, steamed carrots and green beans, olive oil + lemon-free dressing 
 - **Dinner:** Baked chicken thigh, roasted potatoes, sautéed zucchini
 - **Snack:** Rice cakes with a small amount of unsalted, fresh nut butter (if tolerated) or plain rice cakes
 
 ## Day 2
 - **Breakfast:** GF oats cooked in water or rice milk, topped with grapes and a few walnuts (if tolerated)
 - **Lunch:** Turkey and cucumber lettuce wraps (fresh-cooked turkey), side of rice
-- **Dinner:** Stir-fried chicken with zucchini, carrots, and bell pepper over rice noodles (check noodle ingredients for gluten/additives)
-- **Snack:** Cantaloupe slices
+- **Dinner:** Stir-fried chicken with zucchini and carrots over rice noodles 
+- **Snack:**  
 
 ## Day 3
 - **Breakfast:** Scrambled eggs with sautéed zucchini, side of GF toast
-- **Lunch:** Quinoa salad with cucumber, carrot, olive oil, fresh herbs (basil, parsley — avoid if you react to them individually)
-- **Dinner:** Roasted pork loin, mashed potato (made with rice milk instead of dairy), steamed green beans
+- **Lunch:** Quinoa salad with cucumber, carrot, olive oil, fresh herbs (basil, parsley)
+- **Dinner:** Roasted pork loin, mashed potato, steamed green beans
 - **Snack:** Dragon fruit
 
 ## Day 4
@@ -34,8 +34,8 @@
 ## Day 5
 - **Breakfast:** Oat pancakes (GF oats, egg, rice milk) with a few blueberries
 - **Lunch:** Turkey and rice bowl with steamed carrots and cucumber
-- **Dinner:** Baked chicken breast, roasted potatoes, sautéed bell pepper (small portion)
-- **Snack:** Grapes
+- **Dinner:** Baked chicken breast, roasted potatoes
+- **Snack:** 
 
 ## Day 6
 - **Breakfast:** Eggs with GF toast and a small side of sautéed zucchini
