@@ -147,6 +147,7 @@
 ---
 
 # Foods reintroduced
+- in n out protein style plain hamburger and fries
 - apples and dark chocolate 
 - dairy free mozzarella 
 - yellow curry with chicken, potatoes, carrots, water chestnuts, and bean sprouts
