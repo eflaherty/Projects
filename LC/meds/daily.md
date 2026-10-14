@@ -1,9 +1,9 @@
-# Daily Medication & Supplement Timing
+# My pile, stack, regimen or whatever you want to call it AND when
 
 
 Category key: 🔴 MCAS/histamine 🟢 Gut health 🔵 Hashimoto's 🟣 Hormone 🟡 Chinese herbs
 
-## Morning — Empty Stomach, Right on Waking (6:30)
+## Morning — Empty Stomach, Right on Waking (~6:30)
 
 * Armour Thyroid (Rx) 🔵 — with water only, on an empty stomach. No food or other supplements for at least 30–60 minutes
 
