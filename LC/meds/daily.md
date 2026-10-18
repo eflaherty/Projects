@@ -21,6 +21,8 @@ Category key: 🔴 MCAS/histamine 🟢 Gut health 🔵 Hashimoto's 🟣 Hormone
 
 ## Afternoon
 
+* Liquid B12 🔵 — flexible; avoid taking too late
+  
 * LDN (Rx, 3–5 pm) 🔵 — every other day; consider MWF next if needed
 
 ## Evening
@@ -41,7 +43,6 @@ Category key: 🔴 MCAS/histamine 🟢 Gut health 🔵 Hashimoto's 🟣 Hormone
 ## As Needed
 
 * DAO (Life Extension) 🔴 — right before meals
-* Liquid B12 🔵 — flexible; avoid taking too late if it affects energy
 * Nordic Naturals Omega-3 Liquid 🔵 — 1 teaspoon (about 5 mL) with food. Refrigerate after opening and use within 3 months.
 * P5P 50 (Pure Encapsulations) 🔴🟢 — activated B6 for histamine support
 * Pepcid (famotidine) 🔴 — H2 blocker resisting
