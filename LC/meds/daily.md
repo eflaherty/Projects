@@ -10,20 +10,17 @@ Category key: 🔴 MCAS/histamine 🟢 Gut health 🔵 Hashimoto's 🟣 Hormone
 ## With Meals
 
 * Selenium (Thorne) 🔵
-
 * Vitamin K2 + D3 🔵 
 
 ## Between Meals
 
 * Seeking Health ProBiota HistaminX 🔴🟢 — daily; low-histamine probiotic
-
 * Pure Encapsulations Hist Reset 🔴 — 2 capsules daily. Contains quercetin and NAC plus
 
 ## Afternoon
 
-* Liquid B12 🔵 — flexible; avoid taking too late
-  
-* LDN (Rx, 3–5 pm) 🔵 — every other day; consider MWF next if needed
+* Liquid B12 🔵 — flexible; avoid taking too late  
+* LDN (Rx) 🔵 — 3 - 5 pm every other day; consider MWF next if needed
 
 ## Evening
 
@@ -32,13 +29,11 @@ Category key: 🔴 MCAS/histamine 🟢 Gut health 🔵 Hashimoto's 🟣 Hormone
 ## Before Bed
 
 * NOW Magnesium Glycinate 100 mg 🔵 — keep at least 4 hours from Armour Thyroid
-
 * Nutricost L-Theanine 200 mg 🔵
-
-* Progesterone Micro 100 mg capsule (Rx, Xiromed) 🟣🔴 — contains peanut oil; check with your pharmacist if you have peanut sensitivity
+* Progesterone Micro 100 mg capsule (Rx) 🟣🔴 — contains peanut oil; check with your pharmacist if you have peanut sensitivity
 
 ## Anytime — Topical, Skin-Applied
-* Estradiol Transdermal Patch (Rx, Mylan), 0.0375 mg/day, changed twice weekly 🟣🔴 — Your notes flag potential estrogen-related histamine effects.
+* Estradiol Transdermal Patch (Rx), 0.0375 mg/day, changed twice weekly 🟣🔴 — Your notes flag potential estrogen-related histamine effects.
 
 ## As Needed
 
