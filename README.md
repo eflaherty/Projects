@@ -56,7 +56,7 @@ executives
 **Verimatrix, Inc: Senior Software QA Engineer/QA Lead, May 2017 - Mar 2020**
 - Led the effort to work with product management, product owners, and other system / production readiness team members to acquire and define the use cases for multiple solutions
 - Took on the TestRail enhancements project and drove the implementation of changes to an end-to-end (E2E) testing approach along with influencing PRT's mindset, approach, creation and execution of testing to an E2E paradigm. This included using a risk-based testing approach.
- -Demonstrated and documented how to deploy an (AWS) Amazon RDS with an EC2
+- Demonstrated and documented how to deploy an (AWS) Amazon RDS with an EC2
 instance connecting to it using ansible
 - Led offshore resources to develop automation frameworks on legacy regression areas
 - Created, reviewed test plan and led offshore resources to write and execute test cases related to heartbeat support, PlayReady security changes in the on-premises solutions
