@@ -6,7 +6,6 @@
 - Rice - white
 - Rice - brown
 - Rice - basmati
-- Congee
 - Sorghum
 
 ## Resistant Starches
@@ -147,6 +146,8 @@
 ---
 
 # Foods reintroduced
+- blackberry sheep milk yogurt
+- gluten free ritz crackers - contains soy
 - in n out protein style plain hamburger and fries - barf
 - apples and dark chocolate 
 - dairy free mozzarella 
