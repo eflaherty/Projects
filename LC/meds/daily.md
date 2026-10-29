@@ -10,11 +10,15 @@ Category key: 🔴 MCAS/histamine 🟢 Gut health 🔵 Hashimoto's 🟣 Hormone
 
 * Selenium (Thorne) 🔵
 * Vitamin K2 + D3 🔵
-* S. boulardii 🟢 — 2 times per day, with food
+* Seeking Health ProBiota HistaminX 🔴🟢 — daily, with food
 
 ## Between Meals
 
 * Pure Encapsulations Hist Reset 🔴 — 2 capsules daily. Contains quercetin and NAC plus
+
+## Midday — With Lunch
+
+* Designs for Health Oil of Oregano 🟢 — 1 softgel with a meal. Keep it a few hours from the zinc carnosine and HistaminX
 
 ## Afternoon
 
@@ -58,4 +62,4 @@ Category key: 🔴 MCAS/histamine 🟢 Gut health 🔵 Hashimoto's 🟣 Hormone
 
 1. Armour Thyroid: Take on an empty stomach with water. Wait at least 30–60 minutes before food or other supplements.
 
-2. Magnesium, zinc , and silver nasal spray: Keep at least 4 hours from the thyroid meds
+2. Magnesium and zinc carnosine: Keep at least 4 hours from the thyroid meds
