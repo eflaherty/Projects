@@ -1,6 +1,6 @@
 # My pile, stack, regimen or whatever you want to call it AND when
 
-Category key: 🔴 MCAS/histamine 🟢 Gut health 🔵 Hashimoto's 🟣 Hormone
+Category key: 🔴 MCAS/histamine 🟢 Gut health 🔵 Hashimoto's 🟣 Hormone 🟠 Long Covid
 
 ## Morning — Empty Stomach, Right on Waking (~6:30)
 
@@ -11,6 +11,7 @@ Category key: 🔴 MCAS/histamine 🟢 Gut health 🔵 Hashimoto's 🟣 Hormone
 * Selenium (Thorne) 🔵
 * Vitamin K2 + D3 🔵
 * Seeking Health ProBiota HistaminX 🔴🟢 — daily, with food
+* NOW Sports Creatine Monohydrate powder 🔵🟠 — 5 g (about 1½ level teaspoons) daily with plenty of fluids. No other ingredients
 
 ## Between Meals
 
@@ -23,7 +24,7 @@ Category key: 🔴 MCAS/histamine 🟢 Gut health 🔵 Hashimoto's 🟣 Hormone
 ## Afternoon
 
 * Liquid B12 🔵 — flexible; avoid taking too late
-* LDN (Rx) 🔵 — 3 - 5 pm every other day; consider MWF next if needed
+* LDN (Rx) 🔵🟠 — 3 - 5 pm every other day; consider MWF next if needed
 
 ## Evening
 
@@ -33,14 +34,13 @@ Category key: 🔴 MCAS/histamine 🟢 Gut health 🔵 Hashimoto's 🟣 Hormone
 
 * NOW Magnesium Glycinate 100 mg 🔵 — keep at least 4 hours from Armour Thyroid
 * Nutricost L-Theanine 200 mg 🔵
-* Argentyn 23 nasal spray (silver hydrosol) — 5–10 sprays in each nostril for 7–14 days, then 2 sprays in each nostril twice daily until the infection resolves. Keep it away from the 6:30 Armour Thyroid dose
 
 ## Before Bed
 
 * Progesterone Micro 100 mg capsule (Rx) 🟣🔴 — contains peanut oil; check with your pharmacist if you have peanut sensitivity
 
 ## Anytime — Topical, Skin-Applied
-* Estradiol Transdermal Patch (Rx), 0.0375 mg/day, changed twice weekly 🟣🔴 — Your notes flag potential estrogen-related histamine effects.
+* Estradiol Transdermal Patch (Rx), 0.05 mg/day, changed twice weekly 🟣🔴 — Your notes flag potential estrogen-related histamine effects.
 
 ## As Needed
 
@@ -48,7 +48,7 @@ Category key: 🔴 MCAS/histamine 🟢 Gut health 🔵 Hashimoto's 🟣 Hormone
 * Activated charcoal 🟢 — binds medications and supplements as well as toxins, so keep it 2 hours after and 4 hours before anything else
 * Nordic Naturals Omega-3 Liquid 🔵 — 1 teaspoon (about 5 mL) with food. Refrigerate after opening and use within 3 months.
 * P5P 50 (Pure Encapsulations) 🔴🟢 — activated B6 for histamine support
-* Pepcid (famotidine) 🔴 — H2 blocker resisting
+* Pepcid (famotidine) 🔴🟠 — H2 blocker resisting
 * Zofran (Rx) 🔴🟢 — available as needed; not taken before
 * EpiPen (Rx) 🔴🟢 — available as needed; not yet had to use
 * NOW Sports L-Glutamine 🟢 — 1 rounded teaspoon (about 5 g), preferably between meals.
@@ -56,10 +56,11 @@ Category key: 🔴 MCAS/histamine 🟢 Gut health 🔵 Hashimoto's 🟣 Hormone
 
 ## Coming Soon
 
+* Flonase Allergy Relief (fluticasone propionate nasal spray, 50 mcg per spray) 🔴
 * The Quercetin (The Art of Being Well, Dr. Will Cole) 🔴 — replaces Hist Reset when it's finished. 2 capsules in the morning with food, in the Morning — With Food slot after the thyroid wait. Vitamin C 200 mg, quercetin phospholipid 250 mg, nettle extract 200 mg, NAC 100 mg
 
 ## The Two Firm Rules
 
 1. Armour Thyroid: Take on an empty stomach with water. Wait at least 30–60 minutes before food or other supplements.
 
-2. Magnesium and zinc carnosine: Keep at least 4 hours from the thyroid meds
+2. Magnesium and zinc carnosine: Keep at least 4 hours from the thyroid 
