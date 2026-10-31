@@ -42,7 +42,7 @@ Category key: 🔴 MCAS/histamine 🟢 Gut health 🔵 Hashimoto's 🟣 Hormone 
 ## Anytime — Topical, Skin-Applied
 * Estradiol Transdermal Patch (Rx), 0.05 mg/day, changed twice weekly 🟣🔴 — Your notes flag potential estrogen-related histamine effects.
 
-## As Needed
+## PRN
 
 * DAO (Life Extension) 🔴 — right before meals
 * Activated charcoal 🟢 — binds medications and supplements as well as toxins, so keep it 2 hours after and 4 hours before anything else
