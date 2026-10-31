@@ -29,7 +29,7 @@ Category key: 🔴 MCAS/histamine 🟢 Gut health 🔵 Hashimoto's 🟣 Hormone 
 ## Evening
 
 * Nutricost Zinc Carnosine (86 mg, 18 mg elemental zinc) 🟢 — keep at least 4 hours from Armour Thyroid
-* now S Boulardii - 1 capsule, 5 billion CFU
+* now S Boulardii 🟢 - 1 capsule, 5 billion CFU
 
 ## After Dinner
 
@@ -45,13 +45,13 @@ Category key: 🔴 MCAS/histamine 🟢 Gut health 🔵 Hashimoto's 🟣 Hormone 
 
 ## PRN
 
+* NOW Sports L-Glutamine 🟢 — 1 rounded teaspoon (about 5 g), preferably between meals
 * DAO (Life Extension) 🔴 — right before meals
 * Nordic Naturals Omega-3 Liquid 🔵 — 1 teaspoon (about 5 mL) with food. Refrigerate after opening and use within 3 months.
 * P5P 50 (Pure Encapsulations) 🔴🟢 — activated B6 for histamine support
 * Pepcid (famotidine) 🔴🟠 — H2 blocker resisting
 * Zofran (Rx) 🔴🟢 — available as needed; not taken before
 * EpiPen (Rx) 🔴🟢 — available as needed; not yet had to use
-* NOW Sports L-Glutamine 🟢 — 1 rounded teaspoon (about 5 g), preferably between meals.
 * NOW Ginger Root 550 mg 🟢 - used in cooking
 * Activated charcoal 🟢 — binds medications and supplements as well as toxins, so keep it 2 hours after and 4 hours before anything else
 
