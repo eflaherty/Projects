@@ -10,10 +10,13 @@ Category key: 🔴 MCAS/histamine 🟢 Gut health 🔵 Hashimoto's 🟣 Hormone 
 
 * Selenium (Thorne) 🔵
 * Vitamin K2 + D3 🔵
-* Seeking Health ProBiota HistaminX 🔴🟢 — daily, with food
 * NOW Sports Creatine Monohydrate powder 🔵🟠 — 5 g (about 1½ level teaspoons) daily with plenty of fluids. No other ingredients
 * The Quercetin (The Art of Being Well, Dr. Will Cole) 🔴 — 2 capsules with food. Vitamin C 200 mg, quercetin phospholipid 250 mg, nettle extract 200 mg, NAC 100 mg
 
+## morning away from food
+
+* Seeking Health ProBiota HistaminX 🔴🟢 — daily, away from food
+  
 ## Midday — With Lunch
 
 * Designs for Health Oil of Oregano 🟢 — 1 softgel with a meal. Keep it a few hours from the zinc carnosine and HistaminX
@@ -31,10 +34,12 @@ Category key: 🔴 MCAS/histamine 🟢 Gut health 🔵 Hashimoto's 🟣 Hormone 
 
 * NOW Magnesium Glycinate 100 mg 🔵 — keep at least 4 hours from Armour Thyroid
 * Nutricost L-Theanine 200 mg 🔵
+* now S Boulardii - 1 cap
 
 ## Before Bed
 
 * Progesterone Micro 100 mg capsule (Rx) 🟣🔴 — contains peanut oil; check with your pharmacist if you have peanut sensitivity
+* saline rinse/neti pot
 
 ## Anytime — Topical, Skin-Applied
 * Estradiol Transdermal Patch (Rx), 0.05 mg/day, changed twice weekly 🟣🔴 — Your notes flag potential estrogen-related histamine effects.
