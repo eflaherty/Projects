@@ -5,6 +5,7 @@
 
 ## Breakfast
 - 8 - 10 AM (substantial cooked grains, easy to digest and warm with a little protein) - grounding & energizing
+- aim for 30 grams of protein in AM
 
 ## Lunch
 - 11:30 AM - 12:30 PM (full meal) - short 15 - 30 minutes rest (or more for bad sleep nights) after eating
