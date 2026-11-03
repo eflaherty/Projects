@@ -13,7 +13,7 @@ Category key: 🔴 MCAS/histamine 🟢 Gut health 🔵 Hashimoto's 🟣 Hormone 
 * NOW Sports Creatine Monohydrate powder 🔵🟠 — 5 g (about 1½ level teaspoons) daily with plenty of fluids. No other ingredients
 * The Quercetin (The Art of Being Well, Dr. Will Cole) 🔴 — 2 capsules with food. Vitamin C 200 mg, quercetin phospholipid 250 mg, nettle extract 200 mg, NAC 100 mg
 
-## morning away from food
+## Morning away from food
 
 * Seeking Health ProBiota HistaminX 🔴🟢 — daily, away from food
   
