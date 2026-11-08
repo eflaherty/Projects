@@ -20,7 +20,7 @@ Category key: 🔴 MCAS/histamine 🟢 Gut health 🔵 Hashimoto's 🟣 Hormone 
 
 ## Midday — With Lunch
 
-* Designs for Health Oil of Oregano 🟢 — 1 softgel with a meal. Keep it a few hours from the zinc carnosine and HistaminX
+* Seeking Health S Boulardii - one daily with food
 
 ## Afternoon
 
