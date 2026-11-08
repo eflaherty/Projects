@@ -6,17 +6,18 @@ Category key: 🔴 MCAS/histamine 🟢 Gut health 🔵 Hashimoto's 🟣 Hormone 
 
 * Armour Thyroid (Rx) 🔵 — with water only, on an empty stomach. No food or other supplements for at least 30–60 minutes
 
+## Morning — Away From Food
+
+* Seeking Health ProBiota HistaminX 🔴🟢 — daily, away from food
+
 ## Morning — With Food
 
 * Selenium (Thorne) 🔵
 * Vitamin K2 + D3 🔵
 * NOW Sports Creatine Monohydrate powder 🔵🟠 — 5 g (about 1½ level teaspoons) daily with plenty of fluids. No other ingredients
 * The Quercetin (The Art of Being Well, Dr. Will Cole) 🔴 — 2 capsules with food. Vitamin C 200 mg, quercetin phospholipid 250 mg, nettle extract 200 mg, NAC 100 mg
+* Flonase Allergy Relief (fluticasone propionate nasal spray, 50 mcg per spray) 🔴 — 1 spray in each nostril once per day
 
-## Morning away from food
-
-* Seeking Health ProBiota HistaminX 🔴🟢 — daily, away from food
-  
 ## Midday — With Lunch
 
 * Designs for Health Oil of Oregano 🟢 — 1 softgel with a meal. Keep it a few hours from the zinc carnosine and HistaminX
@@ -34,15 +35,13 @@ Category key: 🔴 MCAS/histamine 🟢 Gut health 🔵 Hashimoto's 🟣 Hormone 
 
 * NOW Magnesium Glycinate 100 mg 🔵 — keep at least 4 hours from Armour Thyroid
 * Nutricost L-Theanine 200 mg 🔵
-* now S Boulardii - 1 cap
 
 ## Before Bed
 
 * Progesterone Micro 100 mg capsule (Rx) 🟣🔴 — contains peanut oil; check with your pharmacist if you have peanut sensitivity
-* saline rinse/neti pot
 
 ## Anytime — Topical, Skin-Applied
-* Estradiol Transdermal Patch (Rx), 0.05 mg/day, changed twice weekly 🟣🔴 — Your notes flag potential estrogen-related histamine effects.
+* Estradiol Transdermal Patch (Rx), 0.05 mg/day, changed twice weekly 🟣🔴 — Your notes flag potential estrogen-related histamine effects
 
 ## As Needed
 
@@ -58,11 +57,10 @@ Category key: 🔴 MCAS/histamine 🟢 Gut health 🔵 Hashimoto's 🟣 Hormone 
 
 ## Coming Soon
 
-* Flonase Allergy Relief (fluticasone propionate nasal spray, 50 mcg per spray) 🔴
 * BodyBio Sodium Butyrate 🟢 — with food (label says 1–2 capsules)
+* Savella (milnacipran) (Rx) - take with food, could cause nausea or constipation. After first week, if still symptoms, let doctor know 
 
 ## The Two Firm Rules
 
 1. Armour Thyroid: Take on an empty stomach with water. Wait at least 30–60 minutes before food or other supplements.
-
-2. Magnesium and zinc carnosine: Keep at least 4 hours from the thyroid
+2. Magnesium and zinc carnosine: Keep at least 4 hours from the thyroid meds
