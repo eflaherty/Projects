@@ -10,7 +10,7 @@ Category key: 🔴 MCAS/histamine 🟢 Gut health 🔵 Hashimoto's 🟣 Hormone 
 
 * NOW Sports Creatine Monohydrate powder 🔵🟠 — 5 g (about 1½ level teaspoons) daily with plenty of fluids. No other ingredients
 * The Quercetin (The Art of Being Well, Dr. Will Cole) 🔴 — 2 capsules with food. Vitamin C 200 mg, quercetin phospholipid 250 mg, nettle extract 200 mg, NAC 100 mg
-* Flonase Allergy Relief (fluticasone propionate nasal spray, 50 mcg per spray) 🔴 — 1 spray in each nostril once per day
+* nasal crom Allergy Relief (cromolyn sodium nasal spray) 🔴 — 1 spray in each nostril once per day
 
 ## Midday — With Lunch
 
@@ -22,7 +22,7 @@ Category key: 🔴 MCAS/histamine 🟢 Gut health 🔵 Hashimoto's 🟣 Hormone 
 
 ## Evening
 
-* H1 - currently Allegra but switching to Zyrtec when I can afford it
+* H1 - Zyrtec 🔴 - 10 mg cetirizine, one daily, twice as needed 
 * Nutricost Zinc Carnosine (86 mg, 18 mg elemental zinc) 🟢 — keep at least 4 hours from Armour Thyroid
 
 ## After Dinner
@@ -36,7 +36,7 @@ Category key: 🔴 MCAS/histamine 🟢 Gut health 🔵 Hashimoto's 🟣 Hormone 
 * Progesterone Micro 100 mg capsule (Rx) 🟣🔴 — contains peanut oil; check with your pharmacist if you have peanut sensitivity. is this dose adequate for uterine lining based on estrogen dose??
 
 ## Anytime — Topical, Skin-Applied
-* Estradiol Transdermal Patch (Rx), 0.05 mg/day, changed twice weekly 🟣🔴 — Your notes flag potential estrogen-related histamine effects
+* Estradiol Transdermal Patch (Rx), 0.0375 mg/day, changed twice weekly 🟣🔴 — Your notes flag potential estrogen-related histamine effects
 
 ## As Needed
 
@@ -51,7 +51,7 @@ Category key: 🔴 MCAS/histamine 🟢 Gut health 🔵 Hashimoto's 🟣 Hormone 
 
 ## Coming Soon
 
-* Savella (milnacipran) (Rx) - take with food, could cause nausea or constipation. After first week, if still symptoms, let doctor know 
+* Savella (milnacipran) (Rx) 🟠 - take with food, could cause nausea or constipation. After first week, if still symptoms, let doctor know 
 * BodyBio Sodium Butyrate 🟢 — with food (label says 1–2 capsules)
   
 
