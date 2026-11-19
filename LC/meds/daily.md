@@ -1,6 +1,6 @@
 # My pile, stack, regimen or whatever you want to call it AND when
 
-Category key: 🔴 MCAS/histamine 🟢 Gut health 🔵 Hashimoto's 🟣 Hormone 🟠 Long Covid
+Category key: 🔴 MCAS/histamine 🟢 Gut health 🔵 Hashimoto's 🟣 Hormone 🟠 Long Covid ⚠️ Possible MCAS trigger
 
 ## Morning — Empty Stomach, Right on Waking (~6:30)
 
@@ -8,54 +8,58 @@ Category key: 🔴 MCAS/histamine 🟢 Gut health 🔵 Hashimoto's 🟣 Hormone 
 
 ## Morning — With Food
 
+* Seeking Health S. boulardii 🟢 — once a day, with food
 * NOW Sports Creatine Monohydrate powder 🔵🟠 — 5 g (about 1½ level teaspoons) daily with plenty of fluids. No other ingredients
 * The Quercetin (The Art of Being Well, Dr. Will Cole) 🔴 — 2 capsules with food. Vitamin C 200 mg, quercetin phospholipid 250 mg, nettle extract 200 mg, NAC 100 mg
-* nasal crom Allergy Relief (cromolyn sodium nasal spray) 🔴 — 1 spray in each nostril once per day
-
-## Midday — With Lunch
-
-* Seeking Health S Boulardii - one daily with food
+* NasalCrom (cromolyn sodium nasal spray) 🔴 — 1 spray in each nostril; label directions are 3–4 times a day
 
 ## Afternoon
 
+* Sublingual B12 🔵 — flexible; avoid taking too late
 * LDN (Rx) 🔵🟠 — 3 - 5 pm every other day; consider MWF next if needed
+* Pepcid (famotidine) 🔴🟠 — H2 blocker
+
+## Afternoon — Away From Food
+
+* Seeking Health ProBiota HistaminX 🔴🟢 — daily, away from food
 
 ## Evening
 
-* H1 - Zyrtec 🔴 - 10 mg cetirizine, one daily, twice as needed 
 * Nutricost Zinc Carnosine (86 mg, 18 mg elemental zinc) 🟢 — keep at least 4 hours from Armour Thyroid
+* NasalCrom (cromolyn sodium nasal spray) 🔴 — 1 spray in each nostril
 
 ## After Dinner
 
-* Seeking Health ProBiota HistaminX 🔴🟢 — daily, away from food
 * NOW Magnesium Glycinate 100 mg 🔵 — keep at least 4 hours from Armour Thyroid
 * Nutricost L-Theanine 200 mg 🔵
 
 ## Before Bed
 
-* Progesterone Micro 100 mg capsule (Rx) 🟣🔴 — contains peanut oil; check with your pharmacist if you have peanut sensitivity. is this dose adequate for uterine lining based on estrogen dose??
+* Progesterone Micro 100 mg capsule (Rx) 🟣🔴 — contains peanut oil; check with your pharmacist if you have peanut sensitivity
 
 ## Anytime — Topical, Skin-Applied
-* Estradiol Transdermal Patch (Rx), 0.0375 mg/day, changed twice weekly 🟣🔴 — Your notes flag potential estrogen-related histamine effects
+* Estradiol Transdermal Patch (Rx), 0.0375 mg/day, changed twice weekly 🟣🔴 — Your notes flag potential estrogen-related histamine effects.
 
-## As Needed
+## PRN
 
-* Pepcid (famotidine) 🔴🟠 — H2 blocker 
-* Nordic Naturals Omega-3 Liquid 🔵 — 1 teaspoon (about 5 mL) with food. Refrigerate after opening and use within 3 months
 * DAO (Life Extension) 🔴 — right before meals
 * Activated charcoal 🟢 — binds medications and supplements as well as toxins, so keep it 2 hours after and 4 hours before anything else
+* Nordic Naturals Omega-3 Liquid 🔵 — 1 teaspoon (about 5 mL) with food. Refrigerate after opening and use within 3 months.
+* P5P 50 (Pure Encapsulations) 🔴🟢 — activated B6 for histamine support
+* Pepcid (famotidine) 🔴🟠 — H2 blocker 
 * Zofran (Rx) 🔴🟢 — available as needed; not taken before
 * EpiPen (Rx) 🔴🟢 — available as needed; not yet had to use
-* NOW Sports L-Glutamine 🟢 — 1 rounded teaspoon (about 5 g), preferably between meals
+* NOW Sports L-Glutamine 🟢 — 1 rounded teaspoon (about 5 g), preferably between meals.
 * NOW Ginger Root 550 mg 🟢 - used in cooking
+* Beekeeper's Naturals Propolis Throat Soother (throat spray) ⚠️ — possible MCAS triggers: bee propolis (a common bee-product allergen), citric acid, and natural flavor. Also contains slippery elm bark extract and xylitol
 
 ## Coming Soon
 
-* Savella (milnacipran) (Rx) 🟠 - take with food, could cause nausea or constipation. After first week, if still symptoms, let doctor know 
 * BodyBio Sodium Butyrate 🟢 — with food (label says 1–2 capsules)
-  
+* Savella (milnacipran) (Rx)
 
 ## The Two Firm Rules
 
 1. Armour Thyroid: Take on an empty stomach with water. Wait at least 30–60 minutes before food or other supplements.
-2. Magnesium and zinc carnosine: Keep at least 4 hours from the thyroid meds
+
+2. Magnesium and zinc carnosine: Keep at least 4 hours from the thyroid
